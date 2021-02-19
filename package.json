@@ -1,0 +1,29 @@
+{
+  "name": "server_todo",
+  "version": "1.0.0",
+  "description": "mern, studу",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "server": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://gitlab.qbex.io/artem.kabanov/servertodo.git"
+  },
+  "keywords": [
+    "mern",
+    "react"
+  ],
+  "author": "Artem Kabanov <artem.kabanov108@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.7"
+  },
+  "devDependencies": {
+    "concurrently": "^5.3.0",
+    "config": "^3.3.3",
+    "nodemon": "^2.0.6"
+  }
+}

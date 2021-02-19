@@ -1,0 +1,4 @@
+{
+    "port": 5000,
+    "mongoUri": "mongodb+srv://AtomicJedi:Agur53seX@cluster0.es6fs.mongodb.net/server_todo?retryWrites=true&w=majority"
+}
